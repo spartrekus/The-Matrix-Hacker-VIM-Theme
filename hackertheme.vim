@@ -1,10 +1,4 @@
-" Vim color file
-" Maintainer:	Bram Moolenaar <Bram@vim.org>
-" Last Change:	2006 Apr 14
-
-" This color scheme uses a dark grey background.
-
-" First remove all existing highlighting.
+ 
 set background=dark
 hi clear
 if exists("syntax_on")
