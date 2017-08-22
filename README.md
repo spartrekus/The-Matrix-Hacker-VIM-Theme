@@ -1,5 +1,5 @@
 # The-Matrix-Hacker-VIM-Theme
-The Matrix Hacker VIM Theme, Original Theme
+The Matrix Hacker VIM Theme, The Original Theme
 
 
 
